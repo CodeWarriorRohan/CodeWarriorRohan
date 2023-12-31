@@ -23,7 +23,7 @@
 </a>
 
 ### 🔎 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=java,cpp,html,tailwind,react,nextjs,css,vscode,bootstrap,github,git,firebase,stackoverflow,vercel)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,html,react,css,vscode,bootstrap,github,git,mongodb,mysql,spring)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayak-softworld&show_icons=true&theme=radical" />
