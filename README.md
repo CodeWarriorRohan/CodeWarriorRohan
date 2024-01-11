@@ -1,20 +1,20 @@
-## Hey! 👋 I'm Rohan
+## Hey! 👋 I'm Rohan Sinodhiya
 
-### Java Developer | Web Developer | Experienced in Developing and Deploying Web Applications
+### Java || J2EE || Full Stack Java Development Learner || Web Developer || Basic knowledge of Developing and Deploying Web Applications
 
 ![](https://komarev.com/ghpvc/?username=nayak-softworld)
 
 👨‍💻 Welcome to my GitHub profile! 👨‍💻
 
-🔭 I’m currently working on my skills and learning how to work with others.
+🔭 I’m currently working on improvement of my technical and professional skills and learning new things.
 
 🌱 Along my coding journey, I've acquired expertise in multiple cutting-edge frameworks.
 
 👯 I’m keen on collaborating on Java | React.js development projects.
 
-💬 Ask me anything about Java | React.js | Next.js | Firebase | Tailwind CSS.
+💬 I've basic knowledge about Java || J2EE || MySQL Database || C++ (core) || React.js || Spring boot (basics) || Front-End Development.
 
-📫 You can reach me at nayak10softworld@gmail.com
+📫 You can reach me at rohansinodhiya@gmail.com at any time.
 
 ⚡ Fun fact: In the past, I used to believe that coding was all about memorizing code snippets. Now, I know better and code like a professional! 😉
 
@@ -30,5 +30,5 @@
 </p>
 
 ### My Stats 🔥
-![Manish stats](https://github-readme-stats.vercel.app/api?username=nayak-softworld&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=nayak-softworld&theme=dark)](https://git.io/streak-stats) 
+![Rohan stats](https://github-readme-stats.vercel.app/api?username=CodeWarriorRohan&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=CodeWarriorRohan&theme=dark)](https://git.io/streak-stats) 
 --- | ---
