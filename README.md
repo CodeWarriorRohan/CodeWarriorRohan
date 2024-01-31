@@ -29,6 +29,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayak-softworld&show_icons=true&theme=radical" />
 </p>
 
-### My Stats 🔥
-![Rohan stats](https://github-readme-stats.vercel.app/api?username=CodeWarriorRohan&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=CodeWarriorRohan&theme=dark)](https://git.io/streak-stats) 
+### My Status 🔥
+![Rohan status](https://github-readme-stats.vercel.app/api?username=CodeWarriorRohan&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=CodeWarriorRohan&theme=dark)](https://git.io/streak-stats) 
 --- | ---
