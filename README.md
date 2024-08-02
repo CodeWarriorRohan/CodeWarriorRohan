@@ -19,14 +19,14 @@
 ⚡ Fun fact: In the past, I used to believe that coding was all about memorizing code snippets. Now, I know better and code like a professional! 😉
 
 ### 🌐 Connect With Me
-<a href="https://www.linkedin.com/manish-116502227/" target="blank"><img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="nayak_manish" height="30" width="40" />
+<a href="https://www.linkedin.com/in/rohan-sinodhiya-193586249/" target="blank"><img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="nayak_manish" height="30" width="40" />
 </a>
 
 ### 🔎 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=java,cpp,html,react,css,vscode,bootstrap,github,git,mongodb,mysql,spring)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayak-softworld&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWarriorRohan&show_icons=true&theme=radical" />
 </p>
 
 ### My Status 🔥
